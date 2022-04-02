@@ -137,6 +137,7 @@ class _HomePageState extends State<HomePage> {
                   height: 10,
                 ),
                 Container(
+
                   padding: EdgeInsets.all(10),
                   width:MediaQuery.of(context).size.width,
                   height: 85,
